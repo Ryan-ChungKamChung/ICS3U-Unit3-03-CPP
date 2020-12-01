@@ -31,6 +31,7 @@ int main() {
         // Output
         std::cout << "Nice! Your answer is right!" << std::endl;
     } else {
+        // Output
         std::cout << "Oops! Your answer is wrong!" << std::endl;
         std::cout << "The correct answer was: " << random_number << std::endl;
     }
